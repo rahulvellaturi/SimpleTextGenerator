@@ -6,6 +6,14 @@
 ## or simply
 ### `npm i`
 
+## Before starting the application, install node_modules using this command (enter into the project folder in the command prompt):
+
+### `npm install`
+## or
+### `npm install node_modules`
+## or simply
+### `npm i`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
